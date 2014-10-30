@@ -1,0 +1,23 @@
+{
+  "name": "timer",
+  "version": "0.0.0",
+  "description": "Timing/Break management app synchronized with fitbit",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mileszim/timer.git"
+  },
+  "keywords": [
+    "timer",
+    "fitbit"
+  ],
+  "author": "Miles Zimmerman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mileszim/timer/issues"
+  },
+  "homepage": "https://github.com/mileszim/timer"
+}
